@@ -26,3 +26,4 @@ Herramientas a utilizar:
 - Albert small 2
 - Large Language Models (LLM)
 - Inretrieval augmented generation (RAG)
+- LangChain
