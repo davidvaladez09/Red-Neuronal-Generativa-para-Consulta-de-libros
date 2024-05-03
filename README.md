@@ -22,6 +22,7 @@ Delimitaciones:
 
 
 Herramientas a utilizar:
-- Tensorflow
-- Tokenizer
-- keras
+- Transformer 
+- Albert small 2
+- Large Language Models (LLM)
+- Inretrieval augmented generation (RAG)
